@@ -1,0 +1,1280 @@
+.option 0.2561
+C2V1CFB1=63
+C2V1CFB2=3
+.end
+
+.option 0.2602
+C2V1CFB1=62
+C2V1CFB2=3
+.end
+
+.option 0.2644
+C2V1CFB1=61
+C2V1CFB2=3
+.end
+
+.option 0.2687
+C2V1CFB1=60
+C2V1CFB2=3
+.end
+
+.option 0.2732
+C2V1CFB1=59
+C2V1CFB2=3
+.end
+
+.option 0.2778
+C2V1CFB1=58
+C2V1CFB2=3
+.end
+
+.option 0.2826
+C2V1CFB1=57
+C2V1CFB2=3
+.end
+
+.option 0.2876
+C2V1CFB1=56
+C2V1CFB2=3
+.end
+
+.option 0.2927
+C2V1CFB1=55
+C2V1CFB2=3
+.end
+
+.option 0.298
+C2V1CFB1=54
+C2V1CFB2=3
+.end
+
+.option 0.3035
+C2V1CFB1=53
+C2V1CFB2=3
+.end
+
+.option 0.3093
+C2V1CFB1=52
+C2V1CFB2=3
+.end
+
+.option 0.3152
+C2V1CFB1=51
+C2V1CFB2=3
+.end
+
+.option 0.3214
+C2V1CFB1=50
+C2V1CFB2=3
+.end
+
+.option 0.3278
+C2V1CFB1=49
+C2V1CFB2=3
+.end
+
+.option 0.3345
+C2V1CFB1=48
+C2V1CFB2=3
+.end
+
+.option 0.3415
+C2V1CFB1=47
+C2V1CFB2=3
+.end
+
+.option 0.3472
+C2V1CFB1=63
+C2V1CFB2=2
+.end
+
+.option 0.3487
+C2V1CFB1=46
+C2V1CFB2=3
+.end
+
+.option 0.3527
+C2V1CFB1=62
+C2V1CFB2=2
+.end
+
+.option 0.3563
+C2V1CFB1=45
+C2V1CFB2=3
+.end
+
+.option 0.3584
+C2V1CFB1=61
+C2V1CFB2=2
+.end
+
+.option 0.3642
+C2V1CFB1=44
+C2V1CFB2=3
+.end
+
+.option 0.3643
+C2V1CFB1=60
+C2V1CFB2=2
+.end
+
+.option 0.3704
+C2V1CFB1=59
+C2V1CFB2=2
+.end
+
+.option 0.3725
+C2V1CFB1=43
+C2V1CFB2=3
+.end
+
+.option 0.3766
+C2V1CFB1=58
+C2V1CFB2=2
+.end
+
+.option 0.3812
+C2V1CFB1=42
+C2V1CFB2=3
+.end
+
+.option 0.3831
+C2V1CFB1=57
+C2V1CFB2=2
+.end
+
+.option 0.3899
+C2V1CFB1=56
+C2V1CFB2=2
+.end
+
+.option 0.3903
+C2V1CFB1=41
+C2V1CFB2=3
+.end
+
+.option 0.3968
+C2V1CFB1=55
+C2V1CFB2=2
+.end
+
+.option 0.3998
+C2V1CFB1=40
+C2V1CFB2=3
+.end
+
+.option 0.404
+C2V1CFB1=54
+C2V1CFB2=2
+.end
+
+.option 0.4098
+C2V1CFB1=39
+C2V1CFB2=3
+.end
+
+.option 0.4115
+C2V1CFB1=53
+C2V1CFB2=2
+.end
+
+.option 0.4193
+C2V1CFB1=52
+C2V1CFB2=2
+.end
+
+.option 0.4203
+C2V1CFB1=38
+C2V1CFB2=3
+.end
+
+.option 0.4274
+C2V1CFB1=51
+C2V1CFB2=2
+.end
+
+.option 0.4313
+C2V1CFB1=37
+C2V1CFB2=3
+.end
+
+.option 0.4357
+C2V1CFB1=50
+C2V1CFB2=2
+.end
+
+.option 0.443
+C2V1CFB1=36
+C2V1CFB2=3
+.end
+
+.option 0.4444
+C2V1CFB1=49
+C2V1CFB2=2
+.end
+
+.option 0.4535
+C2V1CFB1=48
+C2V1CFB2=2
+.end
+
+.option 0.4553
+C2V1CFB1=35
+C2V1CFB2=3
+.end
+
+.option 0.463
+C2V1CFB1=47
+C2V1CFB2=2
+.end
+
+.option 0.4683
+C2V1CFB1=34
+C2V1CFB2=3
+.end
+
+.option 0.4728
+C2V1CFB1=46
+C2V1CFB2=2
+.end
+
+.option 0.4821
+C2V1CFB1=33
+C2V1CFB2=3
+.end
+
+.option 0.4831
+C2V1CFB1=45
+C2V1CFB2=2
+.end
+
+.option 0.4938
+C2V1CFB1=44
+C2V1CFB2=2
+.end
+
+.option 0.4967
+C2V1CFB1=32
+C2V1CFB2=3
+.end
+
+.option 0.5051
+C2V1CFB1=43
+C2V1CFB2=2
+.end
+
+.option 0.5122
+C2V1CFB1=31
+C2V1CFB2=3
+.end
+
+.option 0.5168
+C2V1CFB1=42
+C2V1CFB2=2
+.end
+
+.option 0.5287
+C2V1CFB1=30
+C2V1CFB2=3
+.end
+
+.option 0.5291
+C2V1CFB1=41
+C2V1CFB2=2
+.end
+
+.option 0.539
+C2V1CFB1=63
+C2V1CFB2=1
+.end
+
+.option 0.542
+C2V1CFB1=40
+C2V1CFB2=2
+.end
+
+.option 0.5464
+C2V1CFB1=29
+C2V1CFB2=3
+.end
+
+.option 0.5475
+C2V1CFB1=62
+C2V1CFB2=1
+.end
+
+.option 0.5556
+C2V1CFB1=39
+C2V1CFB2=2
+.end
+
+.option 0.5564
+C2V1CFB1=61
+C2V1CFB2=1
+.end
+
+.option 0.5652
+C2V1CFB1=28
+C2V1CFB2=3
+.end
+
+.option 0.5655
+C2V1CFB1=60
+C2V1CFB2=1
+.end
+
+.option 0.5698
+C2V1CFB1=38
+C2V1CFB2=2
+.end
+
+.option 0.5749
+C2V1CFB1=59
+C2V1CFB2=1
+.end
+
+.option 0.5846
+C2V1CFB1=58
+C2V1CFB2=1
+.end
+
+.option 0.5848
+C2V1CFB1=37
+C2V1CFB2=2
+.end
+
+.option 0.5854
+C2V1CFB1=27
+C2V1CFB2=3
+.end
+
+.option 0.5947
+C2V1CFB1=57
+C2V1CFB2=1
+.end
+
+.option 0.6006
+C2V1CFB1=36
+C2V1CFB2=2
+.end
+
+.option 0.6052
+C2V1CFB1=56
+C2V1CFB2=1
+.end
+
+.option 0.6071
+C2V1CFB1=26
+C2V1CFB2=3
+.end
+
+.option 0.616
+C2V1CFB1=55
+C2V1CFB2=1
+.end
+
+.option 0.6173
+C2V1CFB1=35
+C2V1CFB2=2
+.end
+
+.option 0.6272
+C2V1CFB1=54
+C2V1CFB2=1
+.end
+
+.option 0.6304
+C2V1CFB1=25
+C2V1CFB2=3
+.end
+
+.option 0.6349
+C2V1CFB1=34
+C2V1CFB2=2
+.end
+
+.option 0.6388
+C2V1CFB1=53
+C2V1CFB2=1
+.end
+
+.option 0.6508
+C2V1CFB1=52
+C2V1CFB2=1
+.end
+
+.option 0.6536
+C2V1CFB1=33
+C2V1CFB2=2
+.end
+
+.option 0.6556
+C2V1CFB1=24
+C2V1CFB2=3
+.end
+
+.option 0.6633
+C2V1CFB1=51
+C2V1CFB2=1
+.end
+
+.option 0.6734
+C2V1CFB1=32
+C2V1CFB2=2
+.end
+
+.option 0.6764
+C2V1CFB1=50
+C2V1CFB2=1
+.end
+
+.option 0.683
+C2V1CFB1=23
+C2V1CFB2=3
+.end
+
+.option 0.6899
+C2V1CFB1=49
+C2V1CFB2=1
+.end
+
+.option 0.6944
+C2V1CFB1=31
+C2V1CFB2=2
+.end
+
+.option 0.704
+C2V1CFB1=48
+C2V1CFB2=1
+.end
+
+.option 0.7126
+C2V1CFB1=22
+C2V1CFB2=3
+.end
+
+.option 0.7168
+C2V1CFB1=30
+C2V1CFB2=2
+.end
+
+.option 0.7186
+C2V1CFB1=47
+C2V1CFB2=1
+.end
+
+.option 0.7339
+C2V1CFB1=46
+C2V1CFB2=1
+.end
+
+.option 0.7407
+C2V1CFB1=29
+C2V1CFB2=2
+.end
+
+.option 0.745
+C2V1CFB1=21
+C2V1CFB2=3
+.end
+
+.option 0.7499
+C2V1CFB1=45
+C2V1CFB2=1
+.end
+
+.option 0.7663
+C2V1CFB1=28
+C2V1CFB2=2
+.end
+
+.option 0.7665
+C2V1CFB1=44
+C2V1CFB2=1
+.end
+
+.option 0.7805
+C2V1CFB1=20
+C2V1CFB2=3
+.end
+
+.option 0.784
+C2V1CFB1=43
+C2V1CFB2=1
+.end
+
+.option 0.7937
+C2V1CFB1=27
+C2V1CFB2=2
+.end
+
+.option 0.8022
+C2V1CFB1=42
+C2V1CFB2=1
+.end
+
+.option 0.8195
+C2V1CFB1=19
+C2V1CFB2=3
+.end
+
+.option 0.8213
+C2V1CFB1=41
+C2V1CFB2=1
+.end
+
+.option 0.823
+C2V1CFB1=26
+C2V1CFB2=2
+.end
+
+.option 0.8413
+C2V1CFB1=40
+C2V1CFB2=1
+.end
+
+.option 0.8547
+C2V1CFB1=25
+C2V1CFB2=2
+.end
+
+.option 0.8624
+C2V1CFB1=39
+C2V1CFB2=1
+.end
+
+.option 0.8627
+C2V1CFB1=18
+C2V1CFB2=3
+.end
+
+.option 0.8845
+C2V1CFB1=38
+C2V1CFB2=1
+.end
+
+.option 0.8889
+C2V1CFB1=24
+C2V1CFB2=2
+.end
+
+.option 0.9077
+C2V1CFB1=37
+C2V1CFB2=1
+.end
+
+.option 0.9106
+C2V1CFB1=17
+C2V1CFB2=3
+.end
+
+.option 0.9259
+C2V1CFB1=23
+C2V1CFB2=2
+.end
+
+.option 0.9323
+C2V1CFB1=36
+C2V1CFB2=1
+.end
+
+.option 0.9582
+C2V1CFB1=35
+C2V1CFB2=1
+.end
+
+.option 0.9642
+C2V1CFB1=16
+C2V1CFB2=3
+.end
+
+.option 0.9662
+C2V1CFB1=22
+C2V1CFB2=2
+.end
+
+.option 0.9855
+C2V1CFB1=34
+C2V1CFB2=1
+.end
+
+.option 1.01
+C2V1CFB1=21
+C2V1CFB2=2
+.end
+
+.option 1.015
+C2V1CFB1=33
+C2V1CFB2=1
+.end
+
+.option 1.024
+C2V1CFB1=15
+C2V1CFB2=3
+.end
+
+.option 1.045
+C2V1CFB1=32
+C2V1CFB2=1
+.end
+
+.option 1.058
+C2V1CFB1=20
+C2V1CFB2=2
+.end
+
+.option 1.078
+C2V1CFB1=31
+C2V1CFB2=1
+.end
+
+.option 1.093
+C2V1CFB1=14
+C2V1CFB2=3
+.end
+
+.option 1.111
+C2V1CFB1=19
+C2V1CFB2=2
+.end
+
+.option 1.113
+C2V1CFB1=30
+C2V1CFB2=1
+.end
+
+.option 1.15
+C2V1CFB1=29
+C2V1CFB2=1
+.end
+
+.option 1.17
+C2V1CFB1=18
+C2V1CFB2=2
+.end
+
+.option 1.171
+C2V1CFB1=13
+C2V1CFB2=3
+.end
+
+.option 1.189
+C2V1CFB1=28
+C2V1CFB2=1
+.end
+
+.option 1.204
+C2V1CFB1=63
+C2V1CFB2=0
+.end
+
+.option 1.223
+C2V1CFB1=62
+C2V1CFB2=0
+.end
+
+.option 1.232
+C2V1CFB1=27
+C2V1CFB2=1
+.end
+
+.option 1.235
+C2V1CFB1=17
+C2V1CFB2=2
+.end
+
+.option 1.243
+C2V1CFB1=61
+C2V1CFB2=0
+.end
+
+.option 1.261
+C2V1CFB1=12
+C2V1CFB2=3
+.end
+
+.option 1.263
+C2V1CFB1=60
+C2V1CFB2=0
+.end
+
+.option 1.278
+C2V1CFB1=26
+C2V1CFB2=1
+.end
+
+.option 1.284
+C2V1CFB1=59
+C2V1CFB2=0
+.end
+
+.option 1.306
+C2V1CFB1=58
+C2V1CFB2=0
+.end
+
+.option 1.307
+C2V1CFB1=16
+C2V1CFB2=2
+.end
+
+.option 1.327
+C2V1CFB1=25
+C2V1CFB2=1
+.end
+
+.option 1.328
+C2V1CFB1=57
+C2V1CFB2=0
+.end
+
+.option 1.352
+C2V1CFB1=56
+C2V1CFB2=0
+.end
+
+.option 1.366
+C2V1CFB1=11
+C2V1CFB2=3
+.end
+
+.option 1.376
+C2V1CFB1=55
+C2V1CFB2=0
+.end
+
+.option 1.38
+C2V1CFB1=24
+C2V1CFB2=1
+.end
+
+.option 1.389
+C2V1CFB1=15
+C2V1CFB2=2
+.end
+
+.option 1.401
+C2V1CFB1=54
+C2V1CFB2=0
+.end
+
+.option 1.427
+C2V1CFB1=53
+C2V1CFB2=0
+.end
+
+.option 1.437
+C2V1CFB1=23
+C2V1CFB2=1
+.end
+
+.option 1.454
+C2V1CFB1=52
+C2V1CFB2=0
+.end
+
+.option 1.481
+C2V1CFB1=51
+C2V1CFB2=0
+.end
+
+.option 1.481
+C2V1CFB1=14
+C2V1CFB2=2
+.end
+
+.option 1.49
+C2V1CFB1=10
+C2V1CFB2=3
+.end
+
+.option 1.5
+C2V1CFB1=22
+C2V1CFB2=1
+.end
+
+.option 1.511
+C2V1CFB1=50
+C2V1CFB2=0
+.end
+
+.option 1.541
+C2V1CFB1=49
+C2V1CFB2=0
+.end
+
+.option 1.568
+C2V1CFB1=21
+C2V1CFB2=1
+.end
+
+.option 1.572
+C2V1CFB1=48
+C2V1CFB2=0
+.end
+
+.option 1.587
+C2V1CFB1=13
+C2V1CFB2=2
+.end
+
+.option 1.605
+C2V1CFB1=47
+C2V1CFB2=0
+.end
+
+.option 1.639
+C2V1CFB1=9
+C2V1CFB2=3
+.end
+
+.option 1.639
+C2V1CFB1=46
+C2V1CFB2=0
+.end
+
+.option 1.643
+C2V1CFB1=20
+C2V1CFB2=1
+.end
+
+.option 1.675
+C2V1CFB1=45
+C2V1CFB2=0
+.end
+
+.option 1.709
+C2V1CFB1=12
+C2V1CFB2=2
+.end
+
+.option 1.712
+C2V1CFB1=44
+C2V1CFB2=0
+.end
+
+.option 1.725
+C2V1CFB1=19
+C2V1CFB2=1
+.end
+
+.option 1.751
+C2V1CFB1=43
+C2V1CFB2=0
+.end
+
+.option 1.792
+C2V1CFB1=42
+C2V1CFB2=0
+.end
+
+.option 1.815
+C2V1CFB1=18
+C2V1CFB2=1
+.end
+
+.option 1.821
+C2V1CFB1=8
+C2V1CFB2=3
+.end
+
+.option 1.834
+C2V1CFB1=41
+C2V1CFB2=0
+.end
+
+.option 1.852
+C2V1CFB1=11
+C2V1CFB2=2
+.end
+
+.option 1.879
+C2V1CFB1=40
+C2V1CFB2=0
+.end
+
+.option 1.916
+C2V1CFB1=17
+C2V1CFB2=1
+.end
+
+.option 1.926
+C2V1CFB1=39
+C2V1CFB2=0
+.end
+
+.option 1.975
+C2V1CFB1=38
+C2V1CFB2=0
+.end
+
+.option 2.02
+C2V1CFB1=10
+C2V1CFB2=2
+.end
+
+.option 2.027
+C2V1CFB1=37
+C2V1CFB2=0
+.end
+
+.option 2.029
+C2V1CFB1=16
+C2V1CFB2=1
+.end
+
+.option 2.049
+C2V1CFB1=7
+C2V1CFB2=3
+.end
+
+.option 2.082
+C2V1CFB1=36
+C2V1CFB2=0
+.end
+
+.option 2.14
+C2V1CFB1=35
+C2V1CFB2=0
+.end
+
+.option 2.156
+C2V1CFB1=15
+C2V1CFB2=1
+.end
+
+.option 2.201
+C2V1CFB1=34
+C2V1CFB2=0
+.end
+
+.option 2.222
+C2V1CFB1=9
+C2V1CFB2=2
+.end
+
+.option 2.266
+C2V1CFB1=33
+C2V1CFB2=0
+.end
+
+.option 2.3
+C2V1CFB1=14
+C2V1CFB2=1
+.end
+
+.option 2.334
+C2V1CFB1=32
+C2V1CFB2=0
+.end
+
+.option 2.342
+C2V1CFB1=6
+C2V1CFB2=3
+.end
+
+.option 2.407
+C2V1CFB1=31
+C2V1CFB2=0
+.end
+
+.option 2.464
+C2V1CFB1=13
+C2V1CFB2=1
+.end
+
+.option 2.469
+C2V1CFB1=8
+C2V1CFB2=2
+.end
+
+.option 2.485
+C2V1CFB1=30
+C2V1CFB2=0
+.end
+
+.option 2.568
+C2V1CFB1=29
+C2V1CFB2=0
+.end
+
+.option 2.653
+C2V1CFB1=12
+C2V1CFB2=1
+.end
+
+.option 2.656
+C2V1CFB1=28
+C2V1CFB2=0
+.end
+
+.option 2.732
+C2V1CFB1=5
+C2V1CFB2=3
+.end
+
+.option 2.751
+C2V1CFB1=27
+C2V1CFB2=0
+.end
+
+.option 2.778
+C2V1CFB1=7
+C2V1CFB2=2
+.end
+
+.option 2.853
+C2V1CFB1=26
+C2V1CFB2=0
+.end
+
+.option 2.875
+C2V1CFB1=11
+C2V1CFB2=1
+.end
+
+.option 2.963
+C2V1CFB1=25
+C2V1CFB2=0
+.end
+
+.option 3.081
+C2V1CFB1=24
+C2V1CFB2=0
+.end
+
+.option 3.136
+C2V1CFB1=10
+C2V1CFB2=1
+.end
+
+.option 3.175
+C2V1CFB1=6
+C2V1CFB2=2
+.end
+
+.option 3.21
+C2V1CFB1=23
+C2V1CFB2=0
+.end
+
+.option 3.278
+C2V1CFB1=4
+C2V1CFB2=3
+.end
+
+.option 3.349
+C2V1CFB1=22
+C2V1CFB2=0
+.end
+
+.option 3.449
+C2V1CFB1=9
+C2V1CFB2=1
+.end
+
+.option 3.502
+C2V1CFB1=21
+C2V1CFB2=0
+.end
+
+.option 3.668
+C2V1CFB1=20
+C2V1CFB2=0
+.end
+
+.option 3.704
+C2V1CFB1=5
+C2V1CFB2=2
+.end
+
+.option 3.833
+C2V1CFB1=8
+C2V1CFB2=1
+.end
+
+.option 3.852
+C2V1CFB1=19
+C2V1CFB2=0
+.end
+
+.option 4.055
+C2V1CFB1=18
+C2V1CFB2=0
+.end
+
+.option 4.098
+C2V1CFB1=3
+C2V1CFB2=3
+.end
+
+.option 4.28
+C2V1CFB1=17
+C2V1CFB2=0
+.end
+
+.option 4.312
+C2V1CFB1=7
+C2V1CFB2=1
+.end
+
+.option 4.444
+C2V1CFB1=4
+C2V1CFB2=2
+.end
+
+.option 4.532
+C2V1CFB1=16
+C2V1CFB2=0
+.end
+
+.option 4.815
+C2V1CFB1=15
+C2V1CFB2=0
+.end
+
+.option 4.928
+C2V1CFB1=6
+C2V1CFB2=1
+.end
+
+.option 5.136
+C2V1CFB1=14
+C2V1CFB2=0
+.end
+
+.option 5.464
+C2V1CFB1=2
+C2V1CFB2=3
+.end
+
+.option 5.503
+C2V1CFB1=13
+C2V1CFB2=0
+.end
+
+.option 5.556
+C2V1CFB1=3
+C2V1CFB2=2
+.end
+
+.option 5.749
+C2V1CFB1=5
+C2V1CFB2=1
+.end
+
+.option 5.926
+C2V1CFB1=12
+C2V1CFB2=0
+.end
+
+.option 6.42
+C2V1CFB1=11
+C2V1CFB2=0
+.end
+
+.option 6.899
+C2V1CFB1=4
+C2V1CFB2=1
+.end
+
+.option 7.003
+C2V1CFB1=10
+C2V1CFB2=0
+.end
+
+.option 7.407
+C2V1CFB1=2
+C2V1CFB2=2
+.end
+
+.option 7.704
+C2V1CFB1=9
+C2V1CFB2=0
+.end
+
+.option 8.195
+C2V1CFB1=1
+C2V1CFB2=3
+.end
+
+.option 8.56
+C2V1CFB1=8
+C2V1CFB2=0
+.end
+
+.option 8.624
+C2V1CFB1=3
+C2V1CFB2=1
+.end
+
+.option 9.63
+C2V1CFB1=7
+C2V1CFB2=0
+.end
+
+.option 11.01
+C2V1CFB1=6
+C2V1CFB2=0
+.end
+
+.option 11.11
+C2V1CFB1=1
+C2V1CFB2=2
+.end
+
+.option 11.5
+C2V1CFB1=2
+C2V1CFB2=1
+.end
+
+.option 12.84
+C2V1CFB1=5
+C2V1CFB2=0
+.end
+
+.option 15.41
+C2V1CFB1=4
+C2V1CFB2=0
+.end
+
+.option 16.39
+C2V1CFB1=0
+C2V1CFB2=3
+.end
+
+.option 17.25
+C2V1CFB1=1
+C2V1CFB2=1
+.end
+
+.option 19.26
+C2V1CFB1=3
+C2V1CFB2=0
+.end
+
+.option 22.22
+C2V1CFB1=0
+C2V1CFB2=2
+.end
+
+.option 25.68
+C2V1CFB1=2
+C2V1CFB2=0
+.end
+
+.option 34.49
+C2V1CFB1=0
+C2V1CFB2=1
+.end
+
+.option 38.52
+C2V1CFB1=1
+C2V1CFB2=0
+.end
+
+.option 77.04
+C2V1CFB1=0
+C2V1CFB2=0
+.end
+

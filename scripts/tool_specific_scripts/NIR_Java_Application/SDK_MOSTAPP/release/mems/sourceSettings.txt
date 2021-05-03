@@ -1,0 +1,7 @@
+t1: 14
+t2_c1: 5
+t2_c2: 35
+t2_tmax: 10
+delta_t: 2
+LampsCount(1-2): 2
+LampSelect(0-1): 0

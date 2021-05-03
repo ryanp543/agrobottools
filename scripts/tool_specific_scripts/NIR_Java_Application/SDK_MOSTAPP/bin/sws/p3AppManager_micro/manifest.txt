@@ -1,0 +1,9 @@
+Name: p3AppManager_micro
+Specification-Title: Java Utility Classes
+Specification-Version: 1.0
+Specification-Vendor: Si-Ware Systems.
+Implementation-Title: spectrometer.p3AppManager_micro 
+Implementation-Version: 0418.6689
+Implementation-Vendor: Si-Ware Systems.
+Main-Class: sws.p3AppManager_micro.p3AppManager_micro
+Class-Path: log4j-1.2.17.jar commons-io-2.4.jar

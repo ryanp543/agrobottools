@@ -1,0 +1,30 @@
+.option Sine
+ACT_PROF_DRV=0
+ACT_PROF_SEL=1
+.end
+
+.option Half-Sine
+ACT_PROF_DRV=0
+ACT_PROF_SEL=2
+.end
+
+.option Triangular
+ACT_PROF_DRV=0
+ACT_PROF_SEL=0
+.end
+
+.option DC
+ACT_PROF_DRV=0
+ACT_PROF_SEL=3
+ACT_PROF_DC=127
+.end
+
+.option Square (for Push-Pull Only)
+ACT_PROF_DRV=0
+ACT_PROF_SEL=3
+ACT_RF_DIFF=0
+ACT_RF_PUSH=1
+ACT_RF_PULL=1
+ACT_RF_DYN_PP=1
+ACT_PROF_DC=127
+.end

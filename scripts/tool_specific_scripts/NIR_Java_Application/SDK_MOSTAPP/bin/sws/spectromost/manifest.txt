@@ -1,0 +1,9 @@
+Name: spectromost
+Specification-Title: Java Utility Classes
+Specification-Version: 1.0
+Specification-Vendor: Si-Ware Systems.
+Implementation-Title: spectrometer.spectromost 
+Implementation-Version: 0418.6461
+Implementation-Vendor: Si-Ware Systems.
+Main-Class: sws.spectromost.UserInterface
+Class-Path: miglayout15-swing.jar p3AppManager_micro.jar jfreechart-1.0.17.jar jcommon-1.0.21.jar log4j-1.2.17.jar poi-3.9.jar poi-ooxml-3.9.jar xmlbeans-2.3.0.jar dom4j-1.6.jar poi-ooxml-schemas-3.9.jar commons-io-2.4.jar

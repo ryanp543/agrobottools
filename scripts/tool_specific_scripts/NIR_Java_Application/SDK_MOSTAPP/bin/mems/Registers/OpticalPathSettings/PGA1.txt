@@ -1,0 +1,23 @@
+.option 1
+OPTPGA1GAIN=0
+.end
+
+.option 2
+OPTPGA1GAIN=1
+.end
+
+.option 4
+OPTPGA1GAIN=2
+.end
+
+.option 6
+OPTPGA1GAIN=3
+.end
+
+.option 8
+OPTPGA1GAIN=4
+.end
+
+.option 10
+OPTPGA1GAIN=5
+.end

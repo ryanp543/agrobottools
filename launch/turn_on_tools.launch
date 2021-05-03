@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+
+	<node pkg="tools" name="turn_on_tools" type="turn_on_tools.py" output="screen"/>
+
+</launch>
